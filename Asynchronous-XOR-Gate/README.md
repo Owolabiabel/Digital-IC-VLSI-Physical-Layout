@@ -13,9 +13,12 @@ This project presents the custom physical layout and design rule verification of
 
 ## Tools
 
-* Cadence Virtuoso
-* KLayout
-* Linux
+Cadence Virtuoso
+KLayout
+InductEx
+JoSIM
+WRspice
+Linux
 
 ## XOR Physical Layout
 
