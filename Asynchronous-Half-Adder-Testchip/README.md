@@ -37,7 +37,11 @@ Schematic Design → Custom Layout → Testbench Integration → DRC → LVS →
 
 ## Testbench Layout
 
-*Integrated testbench layout used for physical implementation and verification.*
+## Testbench Layout
+
+![Half Adder Testbench](Half%20adder%20Testbench.png)
+
+**Figure 2.** Physical layout of the asynchronous half-adder testbench.
 
 ## Final Testchip Layout
 
