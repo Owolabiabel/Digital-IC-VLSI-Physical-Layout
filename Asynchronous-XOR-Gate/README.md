@@ -21,7 +21,6 @@ This project presents the custom physical layout and design rule verification of
 * Linux
 
 ## XOR Physical Layout
-
 ![Asynchronous XOR Physical Layout](XOR.png)
 
 **Figure 1.** Physical layout of the novel asynchronous XOR gate.
