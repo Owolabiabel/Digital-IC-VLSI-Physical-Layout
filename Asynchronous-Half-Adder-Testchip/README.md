@@ -30,7 +30,7 @@ Schematic Design → Custom Layout → Testbench Integration → DRC → LVS →
 
 ## Half-Adder Layout
 
-![Half-Adder Layout](half_adder_layout.png)
+![Half Adder Physical Layout](half adder layout.png)
 
 ## Testbench Layout
 
