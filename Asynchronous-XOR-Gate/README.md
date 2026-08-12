@@ -26,7 +26,7 @@ This project presents the custom physical layout and design rule verification of
 
 **Figure 1.** Physical layout of the novel asynchronous XOR gate.
 
-## Design Rule Checking (DRC)
+
 
 
 
