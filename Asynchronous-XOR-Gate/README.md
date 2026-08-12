@@ -2,27 +2,19 @@
 
 ## Overview
 
-This project presents the custom physical design and verification of a novel asynchronous XOR gate implemented using an emerging technology.
+This project presents the custom physical layout and design rule verification of a novel asynchronous XOR gate implemented using an emerging technology.
 
-## Physical Design Flow
-
-Schematic Design → Custom Layout → DRC/LVS 
 ## Design Highlights
 
 * Custom multi-layer physical layout
 * Device placement and interconnect routing
 * Flux-trapping moat integration
-* Physical verification
-* Inductance extraction
-* Post-layout verification
+* Design Rule Checking (DRC)
 
 ## Tools
 
 * Cadence Virtuoso
 * KLayout
-* InductEx
-* JoSIM
-* WRspice
 * Linux
 
 ## XOR Physical Layout
