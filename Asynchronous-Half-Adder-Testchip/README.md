@@ -2,22 +2,48 @@
 
 ## Overview
 
-This project presents the physical design and verification of an asynchronous half-adder testchip implemented using an emerging technology.
+This project presents the custom physical design and verification of an asynchronous half-adder testchip implemented using an emerging technology.
 
-## Design Flow
+## Physical Design Flow
 
-**Schematic → Physical Layout → DRC/LVS → Inductance Extraction → Post-Layout Verification**
+Schematic Design → Custom Layout → Testbench Integration → DRC → LVS → Inductance Extraction → Post-Layout Verification → Final Testchip → Tapeout
 
-## Highlights
+## Design Highlights
 
 * Custom multi-layer physical layout
+* Device placement and interconnect routing
 * Testbench integration
 * Flux-trapping moat implementation
-* Design Rule Checking (DRC)
-* Layout Versus Schematic (LVS)
+* DRC and LVS verification
 * Inductance extraction
 * Post-layout verification
+* Testchip integration and tapeout
 
 ## Tools
 
-Cadence Virtuoso · KLayout · InductEx · JoSIM · WRspice · Linux
+* Cadence Virtuoso
+* KLayout
+* InductEx
+* JoSIM
+* WRspice
+* Linux
+
+## Half-Adder Layout
+
+*Physical layout of the asynchronous half-adder.*
+
+## Testbench Layout
+
+*Integrated testbench layout used for physical implementation and verification.*
+
+## Final Testchip Layout
+
+*Final integrated testchip layout prepared for tapeout.*
+
+## Physical Verification
+
+*DRC, LVS, and extraction results.*
+
+## Post-Layout Verification
+
+*Post-layout simulation results.*
