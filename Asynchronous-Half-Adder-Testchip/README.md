@@ -36,7 +36,6 @@ Schematic Design → Custom Layout → Testbench Integration → DRC → LVS →
 **Figure 1.** Physical layout of the asynchronous half adder.
 
 ##  DRC of Half Adder Physical Layout
-### Design Rule Checking (DRC)
 
 ![DRC Result 1](DRC1.png)
 
