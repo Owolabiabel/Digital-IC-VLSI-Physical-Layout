@@ -30,7 +30,10 @@ Schematic Design → Custom Layout → Testbench Integration → DRC → LVS →
 
 ## Half-Adder Layout
 
-![Half Adder Physical Layout](Half adder Layout.png)
+
+![Half Adder Layout](Half%20adder%20Layout.png)
+
+**Figure 1.** Physical layout of the asynchronous half-adder.
 
 ## Testbench Layout
 
