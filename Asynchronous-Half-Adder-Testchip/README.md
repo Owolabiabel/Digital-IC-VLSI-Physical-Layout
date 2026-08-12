@@ -28,18 +28,20 @@ Schematic Design → Custom Layout → Testbench Integration → DRC → LVS →
 * WRspice
 * Linux
 
-## Half-Adder Layout
+## Physical Layout of Half Adder 
 
 
 ![Half Adder Layout](Half%20adder%20Layout.png)
 
-**Figure 1.** Physical layout of the asynchronous half-adder.
+**Figure 1.** Physical layout of the asynchronous half adder.
 
-## Testbench Layout
+##  DRC of Half Adder Physical Layout
+
+## Physical Layout Half Adder in Testbench 
 
 ![Half Adder Testbench](Half%20adder%20Testbench.png)
 
-**Figure 2.** Physical layout of the asynchronous half-adder testbench.
+**Figure 2.** Physical layout of the asynchronous half adder testbench.
 
 
 ## Final Testchip 
