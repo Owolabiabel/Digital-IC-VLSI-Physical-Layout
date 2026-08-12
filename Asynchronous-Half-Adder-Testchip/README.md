@@ -37,29 +37,25 @@ Schematic Design → Custom Layout → Testbench Integration → DRC → LVS →
 
 ##  DRC of Half Adder Physical Layout
 
-![DRC Result 1](DRC1.png)
 
-**Figure 2.** Design Rule Checking (DRC) result for the half-adder layout.
+![DRC Result 1](DRC1.png)
 
 ![DRC Result 2](DRC2.png)
 
-**Figure 3.** Design Rule Checking (DRC) result for the testbench layout.
-
 ![DRC Result 3](DRC3.png)
 
-**Figure 4.** Design Rule Checking (DRC) result for the final testchip layout.
-
+**Figure 2.** Design Rule Checking (DRC) results for the asynchronous half-adder physical layout.
 ## Physical Layout Half Adder in Testbench 
 
 ![Half Adder Testbench](Half%20adder%20Testbench.png)
 
-**Figure 5.** Physical layout of the asynchronous half adder testbench.
+**Figure 3.** Physical layout of the asynchronous half adder testbench.
 
 
 ## Final Testchip 
 
 ![Final Testchip Layout](Testchip.png)
 
-**Figure 6.** Final integrated testchip layout prepared for tapeout.
+**Figure 4.** Final integrated testchip layout prepared for tapeout.
 
 
