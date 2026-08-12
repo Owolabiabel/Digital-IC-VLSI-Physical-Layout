@@ -6,8 +6,7 @@ This project presents the custom physical design and verification of a novel asy
 
 ## Physical Design Flow
 
-Schematic Design → Custom Layout → DRC/LVS → Inductance Extraction → Post-Layout Verification
-
+Schematic Design → Custom Layout → DRC/LVS 
 ## Design Highlights
 
 * Custom multi-layer physical layout
